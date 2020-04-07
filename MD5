@@ -1,0 +1,12 @@
+128c0eb56059ccf02d72f5ae3a55e31a *DESCRIPTION
+92dfe3eb1d7a9ecfe252da7215d26002 *LICENSE
+d0e0c34bf4ec2a60efbae3618f60a655 *NAMESPACE
+a1b6943f972aed659f7957b4814ec613 *R/ipify.R
+2cad0eec001b63f7be1825b2cf87905e *R/settings.R
+fd633547ac63f5908dd35ff392db5b5e *man/get_ip.Rd
+5c40044499a9cec8571435b78953cfa8 *man/get_ip_response.Rd
+38687af595fa12bd833c56d68776b7cb *man/get_os.Rd
+6a5c4f1d4f62641c3cf89d75da5fd6c3 *man/ipify.env.Rd
+d2c9f9da0d6ff29681474f7b5340a56f *tests/testthat.R
+9a2c74e51506fcbc77443b6ae02f4ddc *tests/testthat/test-ipify.R
+27daa72eb2e4afc3ad0ac84147452f82 *tests/testthat/test-settings.R
